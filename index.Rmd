@@ -1,9 +1,4 @@
 ---
-title: "My Office Hour"
-subtitle: "LT"
-author: "Luca Tardella"
-institute: "Sapienza Università di Roma"
-date: "2023/10/12 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -12,24 +7,61 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
+class: left, top
 
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+<div style = "position:fixed; visibility: hidden">
+$$\require{color}\definecolor{yellow}{rgb}{1, 0.8, 0.16078431372549}$$
+$$\require{color}\definecolor{orange}{rgb}{0.96078431372549, 0.525490196078431, 0.203921568627451}$$
+$$\require{color}\definecolor{green}{rgb}{0, 0.474509803921569, 0.396078431372549}$$
+$$\require{color}\definecolor{red}{rgb}{1, 0, 0}$$
+</div>
 
-```{r setup, include=FALSE}
-options(htmltools.dir.version = FALSE)
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: {
+    Macros: {
+      yellow: ["{\\color{yellow}{#1}}", 1],
+      orange: ["{\\color{orange}{#1}}", 1],
+      green: ["{\\color{green}{#1}}", 1],
+      red: ["{\\color{red}{#1}}", 1]
+    },
+    loader: {load: ['[tex]/color']},
+    tex: {packages: {'[+]': ['color']}}
+  }
+});
+</script>
+
+<style>
+.yellow {color: #FFCC29;}
+.orange {color: #F58634;}
+.green {color: #007965;}
+.red {color: #FF0000;}
+</style>
+
+
+```{r flair_color, echo=FALSE}
+library(flair)
+yellow <- "#FFCC29"
+orange <- "#F58634"
+green <- "#007965"
+red <- "#FF0000"
 ```
 
-???
 
-Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharingan_triple.svg)
+### Office Hour: 
+
+<!-- .red[**IMPORTANT: This week office hour is postponed to <br> Friday 13 October,  from 17:00 to 18:00**] -->
+
+#### Thursday, from 17:00 to 18:00 [email notification is welcome!!]
+
+- in person meeting: Room 37, fourth floor, CU002 Building, Main Campus
+- online offfice hour meeting: via Zoom at the following link: <https://uniroma1.zoom.us/j/88993714676?pwd=S1F0bUE0a1BEbjFZRGhKemZpM1NPUT09>
 
 
----
+### Orario di Ricevimento 
 
-class: center, middle
+#### Giovedì, dalle 17:00 alle 18:00 [è gradita una mail di notifica]
 
-# Thanks!
+- in presenza: c/o stanza n.37 IV piano Edificio CU002
+- stanza virtuale online via Zoom al seguente indirizzo: <https://uniroma1.zoom.us/j/88993714676?pwd=S1F0bUE0a1BEbjFZRGhKemZpM1NPUT09>
 
-Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
-
-The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](https://yihui.org/knitr/), and [R Markdown](https://rmarkdown.rstudio.com).
