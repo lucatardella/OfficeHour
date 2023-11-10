@@ -55,7 +55,7 @@ red <- "#FF0000"
 
 <!-- .red[**IMPORTANT: This week office hour is anticipated to <br> Wednesday 25 October,  from 18:30 to 19:30**] -->
 
-<!-- #### Thursday, from 17:00 to 18:00 [email notification is welcome!!] -->
+#### Thursday, from 17:00 to 18:00 [email notification is welcome!!]
 
 - in person meeting: Room 37, fourth floor, CU002 Building, Main Campus
 - online offfice hour meeting: via Zoom at the following link: <https://uniroma1.zoom.us/j/88993714676?pwd=S1F0bUE0a1BEbjFZRGhKemZpM1NPUT09>
@@ -65,7 +65,7 @@ red <- "#FF0000"
 
 <!-- .red[**IMPORTANTE: Questa settimana, in via del tutto eccezionale, <br> il ricevimento è anticipato a Mercoledì 24 Ottobre,  dalle 18:30 alle 19:30**] -->
 
-<!-- #### Giovedì, dalle 17:00 alle 18:00 [è gradita una mail di notifica] -->
+#### Giovedì, dalle 17:00 alle 18:00 [è gradita una mail di notifica]
 
 - in presenza: c/o stanza n.37 IV piano Edificio CU002
 - stanza virtuale online via Zoom al seguente indirizzo: <https://uniroma1.zoom.us/j/88993714676?pwd=S1F0bUE0a1BEbjFZRGhKemZpM1NPUT09>
