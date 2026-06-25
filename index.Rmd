@@ -48,26 +48,115 @@ red <- "#FF0000"
 ```
 
 
-### Office Hour: 
-
-<!-- .red[**IMPORTANT: This week office hour is postponed to <br> Friday 13 October,  from 17:00 to 18:00**] -->
 
 
-<!-- .red[**IMPORTANT: This week office hour is anticipated to <br> Wednesday 25 October,  from 18:30 to 19:30**] -->
-
-#### Thursday, from 17:00 to 18:00 [email notification is welcome!!]
-
-- in person meeting: Room 37, fourth floor, CU002 Building, Main Campus
-- online offfice hour meeting: via Zoom at the following link: <https://uniroma1.zoom.us/j/88993714676?pwd=S1F0bUE0a1BEbjFZRGhKemZpM1NPUT09>
+<!--ogni giovedì alle ore 17:00.  -->
 
 
-### Orario di Ricevimento 
+### Orario di ricevimento: Giovedì
+<!-- Giovedì ore 17:00. -->
+
+.red[**IMPORTANTE: Questa settimana (25 giugno) il ricevimento è posticipato alle ore 18:20 **] 
+
+<!-- .red[**IMPORTANTE**: Il ricevimento studenti di questa settimana (20.11.2025) verrà svolto **esclusivamente in modalità online**!] -->
+
+
+<!--  .red[**IMPORTANTE: L'orario di ricevimento è cambiato a partire dal 22 settembre 2025 **]  -->
+
+<!-- .red[**IMPORTANTE: Oggi 18 settembre 2025 l'orario di ricevimento si terrà solo nella modalità online**] -->
+
+
+<!--.red[**IMPORTANTE: Il ricevimento è sospeso per tutto il mese di agosto **] -->
+
+<!-- .red[**IMPORTANTE: Questa settimana (21-25 luglio) il ricevimento è posticipato alle ore 17:00 **] -->
+
+<!-- .red[**IMPORTANTE: Questa settimana (30 giugno-4 luglio) il ricevimento è posticipato a Lunedì 7 luglio alle ore 14:00 **]-->
+
+<!-- .red[**IMPORTANTE: Questa settimana (30 giugno-4 luglio) il ricevimento è posticipato a Lunedì 7 luglio alle ore 14:00 **]-->
+
+<!-- .red[**IMPORTANTE**: A causa di un contrattempo il ricevimento studenti di questa settimana (05.06.2025) è **solo online**!]   -->
+
+
+<!-- .red[**IMPORTANTE: Il ricevimento studenti di questa settimana (14.05.2025) è **annullato**! Riprenderà regolarmente Giovedì 21 maggio. Per questioni urgenti si prega di inviare un'e-mail.**]  -->
+
+<!--.red[posticipato alle 15:30(!) per oggi Giovedì 10 aprile].-->
+
+<!--.red[**IMPORTANTE: Il ricevimento studenti di questa settimana  è annullato! Riprenderà regolarmente Giovedì 21 novembre. Per questioni urgenti si prega di inviare un'e-mail.**]  -->
+
+<!--.red[**IMPORTANTE: Questa settimana (5 settembre) il ricevimento è posticipato alle ore 18:15 **] -->
+
+
+<!--.red[**IMPORTANTE: Questa settimana (20 giugno) il ricevimento alle 17:00 è esclusivamente online per questioni urgenti. Altrimenti gli studenti saranno ricevuti domani venerdì 21 dalle 12:00 alle 13:00**] -->
+
+<!-- .red[**IMPORTANTE: Il 28 Dicembre 2023 l'orario di ricevimento si svolgerà regolarmente**] -->
+
+
+<!-- .red[**IMPORTANTE: Oggi 8 Febbraio 2024 l'orario di ricevimento si terrà solo nella modalità online**] -->
 
 <!-- .red[**IMPORTANTE: Questa settimana, in via del tutto eccezionale, <br> il ricevimento è anticipato a Mercoledì 24 Ottobre,  dalle 18:30 alle 19:30**] -->
 
-#### Giovedì, dalle 17:00 alle 18:00 [è gradita una mail di notifica]
+<!-- #### Giovedì, dalle 17:00 alle 18:00 [è gradita una mail di notifica]-->
 
-- in presenza: c/o stanza n.37 IV piano Edificio CU002
+<!-- .red[**IMPORTANTE: Questa settimana (17-21 marzo) il ricevimento è posticipato Venerdì 21 alle ore 17:00 **]-->
+
+
+- in presenza: c/o stanza n. 37 Dipartimento di Scienze Statatistiche - quarto piano Edificio CU002
+
+<!-- ~~ per sovrascrivere in strikeout -->
+
 - stanza virtuale online via Zoom al seguente indirizzo: <https://uniroma1.zoom.us/j/88993714676?pwd=S1F0bUE0a1BEbjFZRGhKemZpM1NPUT09>
+
+<!-- `un messaggio email con la tua intenzione di partecipare al ricevimento studenti è sempre molto gradito`-->
+
+### Office hour: Thursday 
+
+<!-- at 5:00 pm  -->
+
+.red[**IMPORTANT: This week (25 June) office hour is postponed to  18:20**].-->
+
+<!-- .red[**IMPORTANT**: This week's office hour (2025/11/20) will be **online only**!] -->
+
+<!-- .red[**IMPORTANT: This is the new office hour schedule for Fall semester **] -->
+
+<!--.red[**IMPORTANT: Today 8 February 2024 office hour is only online. Please, send a message to book. **] -->
+
+<!-- .red[**IMPORTANT: No office hour in August. It will resume on 4 September at 14:00 **].-->
+
+<!-- .red[**IMPORTANT: This week (21-25 Jul) office hour is postponed to from 17:00 to 18:00**].-->
+
+<!--.red[**IMPORTANT: This week office hour is postponed to <br> Monday 7 July from 14:00 to 15:00**]-->
+
+<!-- .red[**IMPORTANT: This week office hour is postponed to <br> Monday 7 July from 14:00 to 15:00**] -->
+
+<!--..red[**IMPORTANT**: This week office hour is ** online only.**]-->
+
+<!--.red[**IMPORTANT: This week office hour is postponed to from 16:30 to 17:30**]. -->
+
+<!--.red[17:20(!) on 20 February 2025].-->
+
+<!--.red[**IMPORTANT: This week (14 May 2025) office hour is **canceled**! It will resume Thursday 21 May For urgent matters, please send an email.**] -->
+
+<!--.red[**IMPORTANT: This week office hour is postponed to <br> Thursday 20 February,  from 17:30 to 18:30**] -->
+
+<!-- .red[**IMPORTANT: This week office hour is postponed to <br> Thurshay Friday 13 October,  from 17:00 to 18:00**] -->
+
+<!--.red[**IMPORTANT: This week (June 20th) regular office hour at 17:00 is exclusively online for urgent matters.<br> Students are otherwise welcome tomorrow from 12:00 to 13:00**] -->
+
+<!-- .red[**IMPORTANT: This week office hour is anticipated to <br> Wednesday 25 October,  from 18:30 to 19:30**] -->
+
+<!-- .red[**IMPORTANT: Today 8 February 2024 office hour is only online**] -->
+
+<!-- .red[**IMPORTANT: On 28 December 2023 there will be a regular office hour**] -->
+
+<!-- #### Thursday, from 17:00 to 18:00 [email notification is welcome!!] -->
+
+<!-- .red[**IMPORTANT: This week office hour is postponed to <br> Friday 21 March,  from 17:00 to 18:00**] -->
+
+- in person meeting: Room 37, Dept. of Statistical Sciences - fourth floor, CU002 Building, Main Campus
+
+- online office hour meeting: via Zoom at the following link: <https://uniroma1.zoom.us/j/88993714676?pwd=S1F0bUE0a1BEbjFZRGhKemZpM1NPUT09> 
+
+<!--`an email message with your intention to attend office hours is always very welcome`  -->
+
 
 <img src="https://raw.githubusercontent.com/lucatardella/sma/main/avatar-mio-f1.jpg" width="100px" height="100px" style="position:absolute; right:60px; top:10px;">
