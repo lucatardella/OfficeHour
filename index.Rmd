@@ -56,7 +56,7 @@ red <- "#FF0000"
 ### Orario di ricevimento: Giovedì
 <!-- Giovedì ore 17:00. -->
 
-.red[**IMPORTANTE: Questa settimana (25 giugno) il ricevimento è posticipato alle ore 18:20 **] 
+<!-- .red[**IMPORTANTE: Questa settimana (25 giugno) il ricevimento è posticipato alle ore 18:20 **]  -->
 
 <!-- .red[**IMPORTANTE**: Il ricevimento studenti di questa settimana (20.11.2025) verrà svolto **esclusivamente in modalità online**!] -->
 
