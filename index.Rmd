@@ -100,7 +100,7 @@ red <- "#FF0000"
 <!-- .red[**IMPORTANTE: Questa settimana (17-21 marzo) il ricevimento è posticipato Venerdì 21 alle ore 17:00 **]-->
 
 
-- in presenza: c/o stanza n. 32 (was 37) Dipartimento di Scienze Statatistiche - quarto piano Edificio CU002
+- in presenza: c/o stanza n. **37** Dipartimento di Scienze Statatistiche - quarto piano Edificio CU002
 
 <!-- ~~ per sovrascrivere in strikeout -->
 
@@ -150,7 +150,7 @@ red <- "#FF0000"
 
 <!-- .red[**IMPORTANT: This week office hour is postponed to <br> Friday 21 March,  from 17:00 to 18:00**] -->
 
-- in person meeting: Room 37, Dept. of Statistical Sciences - fourth floor, CU002 Building, Main Campus
+- in person meeting: Room **37**, Dept. of Statistical Sciences - fourth floor, CU002 Building, Main Campus
 
 - online office hour meeting: via Zoom at the following link: <https://uniroma1.zoom.us/j/88993714676?pwd=S1F0bUE0a1BEbjFZRGhKemZpM1NPUT09> 
 
