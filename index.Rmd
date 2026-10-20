@@ -71,7 +71,7 @@ red <- "#FF0000"
 <!-- .red[**IMPORTANTE: Questa settimana (21-25 luglio) il ricevimento è posticipato alle ore 17:00 **] -->
 
 <!-- .red[**IMPORTANTE: Questa settimana (30 giugno-4 luglio) il ricevimento è posticipato a Lunedì 7 luglio alle ore 14:00 **]-->
-s wee
+
 <!-- .red[**IMPORTANTE: Questa settimana (30 giugno-4 luglio) il ricevimento è posticipato a Lunedì 7 luglio alle ore 14:00 **]-->
 
 <!-- .red[**IMPORTANTE**: A causa di un contrattempo il ricevimento studenti di questa settimana (05.06.2025) è **solo online**!]   -->
