@@ -53,10 +53,9 @@ red <- "#FF0000"
 <!--ogni giovedì alle ore 17:00.  -->
 
 
-### Orario di ricevimento: <del>Giovedì</del><!-- -->
-<!-- Giovedì ore 17:00. -->
+### Orario di ricevimento: Giovedì ore 17:00.
 
-.red[**IMPORTANTE: Questa settimana (19-23 ottobre) il ricevimento è anticipato alle ore 18:00 di Mercoledì 21**] 
+<!--.red[**IMPORTANTE: Questa settimana (11 dicembre) il ricevimento è posticipato alle ore 18:15 **] -->
 
 <!-- .red[**IMPORTANTE**: Il ricevimento studenti di questa settimana (20.11.2025) verrà svolto **esclusivamente in modalità online**!] -->
 
@@ -99,20 +98,19 @@ red <- "#FF0000"
 
 <!-- .red[**IMPORTANTE: Questa settimana (17-21 marzo) il ricevimento è posticipato Venerdì 21 alle ore 17:00 **]-->
 
-
-- in presenza: c/o stanza n. 37 Dipartimento di Scienze Statatistiche - quarto piano Edificio CU002
+- in presenza: c/o stanza n. 37,  Dipartimento di Scienze Statatistiche - quarto piano Edificio CU002
 
 <!-- ~~ per sovrascrivere in strikeout -->
 
 - stanza virtuale online via Zoom al seguente indirizzo: <https://uniroma1.zoom.us/j/88993714676?pwd=S1F0bUE0a1BEbjFZRGhKemZpM1NPUT09>
 
+<!-- Per informazioni su sessioni di esame in questo periodi di inaccessibilità del sito web Sapienza, si può consultare la pagina personale al seguente link: <https://www.dss.uniroma1.it/it/dipartimento/persone/tardella-luca> -->
+
 <!-- `un messaggio email con la tua intenzione di partecipare al ricevimento studenti è sempre molto gradito`-->
 
+### Office hour: Thursday at 5:00 pm
 
-### Office hour: <del>Thursday</del>
-<!-- at 5:00 pm  -->
-
-.red[**IMPORTANT: This week only office hour is on Wednesday at   18:00**].
+<!-- .red[**IMPORTANT: This week (11 Dec.) office hour is postponed to  18:15**].-->
 
 <!-- .red[**IMPORTANT**: This week's office hour (2025/11/20) will be **online only**!] -->
 
@@ -158,5 +156,6 @@ red <- "#FF0000"
 
 <!--`an email message with your intention to attend office hours is always very welcome`  -->
 
+<!-- Info on exam sessions during this period of Sapienza website unavailability, please see <https://www.dss.uniroma1.it/it/dipartimento/persone/tardella-luca> -->
 
 <img src="https://raw.githubusercontent.com/lucatardella/sma/main/avatar-mio-f1.jpg" width="100px" height="100px" style="position:absolute; right:60px; top:10px;">
