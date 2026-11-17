@@ -55,6 +55,10 @@ red <- "#FF0000"
 
 ### Orario di ricevimento: Giovedì ore 17:00.
 
+.red[**IMPORTANTE**: Il ricevimento studenti di questa settimana (19/11/2026) si svolgerà **solo online**!]   -->
+
+
+
 <!--.red[**IMPORTANTE: Questa settimana (11 dicembre) il ricevimento è posticipato alle ore 18:15 **] -->
 
 <!-- .red[**IMPORTANTE**: Il ricevimento studenti di questa settimana (20.11.2025) verrà svolto **esclusivamente in modalità online**!] -->
@@ -98,8 +102,8 @@ red <- "#FF0000"
 
 <!-- .red[**IMPORTANTE: Questa settimana (17-21 marzo) il ricevimento è posticipato Venerdì 21 alle ore 17:00 **]-->
 
-- in presenza: c/o stanza n. 37,  Dipartimento di Scienze Statatistiche - quarto piano Edificio CU002
 
+- ~~in presenza: c/o stanza n. 37,  Dipartimento di Scienze Statatistiche - quarto piano Edificio CU002~~
 <!-- ~~ per sovrascrivere in strikeout -->
 
 - stanza virtuale online via Zoom al seguente indirizzo: <https://uniroma1.zoom.us/j/88993714676?pwd=S1F0bUE0a1BEbjFZRGhKemZpM1NPUT09>
@@ -109,6 +113,9 @@ red <- "#FF0000"
 <!-- `un messaggio email con la tua intenzione di partecipare al ricevimento studenti è sempre molto gradito`-->
 
 ### Office hour: Thursday at 5:00 pm
+
+
+.red[**IMPORTANT: This week on 19 November office hour is only online. Please, send a message to book. **] -->
 
 <!-- .red[**IMPORTANT: This week (11 Dec.) office hour is postponed to  18:15**].-->
 
@@ -150,7 +157,7 @@ red <- "#FF0000"
 
 <!-- .red[**IMPORTANT: This week office hour is postponed to <br> Friday 21 March,  from 17:00 to 18:00**] -->
 
-- in person meeting: Room 37, Dept. of Statistical Sciences - fourth floor, CU002 Building, Main Campus
+- ~~in person meeting: Room 37, Dept. of Statistical Sciences - fourth floor, CU002 Building, Main Campus~~
 
 - online office hour meeting: via Zoom at the following link: <https://uniroma1.zoom.us/j/88993714676?pwd=S1F0bUE0a1BEbjFZRGhKemZpM1NPUT09> 
 
